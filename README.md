@@ -1,7 +1,7 @@
 <div align="center">
   <img src="pancakex.png" width="200"/>
   <h1>PancakeX</h1>
-  <h2>Uniswap, Pancakeswap, Raydium, Trader Joe, Sushiswap, Quickswap and more</h2>
+  <h2>THIS NEW VERSION IS FOR BSC ONLY, WORKING ON ADDING ALL MAIN CHAINS!</h2>
   <p>Snipe New Tokens on all Dexes within 1 millisecond</p>
   
   [![npm version](https://badgen.net/npm/v/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
@@ -14,7 +14,7 @@
 ## 🚀 Features
 
 - 💌 Auto approve
-- ⏰ Buy early token gems with custom gas fee, slippage, amount. (DYOR)
+- ⏰ Buy early token gems with custom gas fee, slippage, amount. Bot waits for liquidity (DYOR)
 - 🌏 Sell tokens with your custom increase in price, like 50%, 100%, 200%.
 - 💸 Open source, with free node services (Literally don't have to pay anything to run this bot)
 - Enjoy and leave a star, if you like it!
