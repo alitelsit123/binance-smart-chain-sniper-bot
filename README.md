@@ -15,6 +15,7 @@
 ## 🚀 Features
 
 - 💌 Auto approve
+- DARK MODE
 - ⏰ Buy early token gems with custom gas fee, slippage, amount. Bot waits for liquidity (DYOR)
 - 🌏 Sell tokens with your custom increase in price, like 50%, 100%, 200%.
 - 💸 Contains Stop loss, Trailing Stop loss (for maximum profits) and more. Set TP% (Take profit %) to 120% for 20% gain, 100% is the base so 0x, 200% is 1x on your investment
@@ -55,6 +56,7 @@ Detailed changes for each release:
 #### • Version v2.3 [fixed minor bugs] - 4 weeks ago
 #### • Version v2.4 [minor changes] - 3 weeks ago
 #### • Version v3 [global changes, added new functions, log inside the terminal, CROSSCHAIN support] - 1 week ago
+#### • Version v3 [ADDED DARK MODE] - 2 days ago
 
 ## 🔑 License
 
