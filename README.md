@@ -6,7 +6,7 @@
   
   
   <p>My own AVAX Sniping Bot version: https://github.com/DeFiMasterd/PancakeX-ASTRA-AVAX-Sniping-Bot</p>
-  <p>One of our sponsors made a POLYGON version! much love: https://github.com/Blockys69/POLY-X-Polygon-Sniping-Bot</p>
+  <p>One of my backers made a POLYGON version! much love: https://github.com/Blockys69/POLY-X-Polygon-Sniping-Bot</p>
   
   [![npm version](https://badgen.net/npm/v/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
