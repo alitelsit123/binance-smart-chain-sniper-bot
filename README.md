@@ -15,6 +15,7 @@
 </p>
   
   <p>My own AVAX Sniping Bot version: https://github.com/DeFiMasterd/PancakeX-ASTRA-AVAX-Sniping-Bot</p>
+  <p>ARBITRUM version: https://github.com/Blockys69/ARBITRUM-SNIPING-BOT-ASTRA-GUI</p>
   <p>One of my backers made a POLYGON version! much love: https://github.com/Blockys69/POLY-X-Polygon-Sniping-Bot</p>
   <p>One of my backers made an ETH sniping bot: https://github.com/Blockys69/Ethereum-Sniping-Bot-ETHX</p>
  
