@@ -29,6 +29,8 @@
 
 ## 🚀 Features
 
+![Code preview](defixinfographic.png)
+
 - 💌 Auto approve
 - ⏰ Buy early token gems with custom gas fee, slippage, amount. Bot waits for liquidity (DYOR)
 - 🌏 Sell tokens with your custom increase in price, like 50%, 100%, 200%.
