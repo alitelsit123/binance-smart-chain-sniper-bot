@@ -27,7 +27,8 @@
 
 ## 🚀 Features
 
-![Code preview](defixinfographic.png)
+## 🚀 Thanks to JEMJEM for trying it out Live! Click on the image below for a video:
+[![Arbitrum sniping GUI](defixinfographic.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
 
 - 💌 Auto approve
 - ⏰ Buy early token gems with custom gas fee, slippage, amount. Bot waits for liquidity (DYOR)
