@@ -25,11 +25,12 @@
   
 </div>
 
-## 🚀 Features
 
 ## 🚀 Thanks to JEMJEM for trying it out Live! Click on the image below for a video:
-[![Arbitrum sniping GUI](defixinfographic.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
+[![BSC sniping GUI](defixinfographic.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
 
+
+## 🚀 Features
 - 💌 Auto approve
 - ⏰ Buy early token gems with custom gas fee, slippage, amount. Bot waits for liquidity (DYOR)
 - 🌏 Sell tokens with your custom increase in price, like 50%, 100%, 200%.
