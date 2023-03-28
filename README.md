@@ -44,7 +44,7 @@
 ## 📦 Install
 
 ```bash
-1. Download python3+ for your PC from python org
+1. Download python3.7+ for your PC from python org
 2. Open terminal in the bot folder and type "pip install -r requirements.txt" / this will install all modules required to run the bot
 3. In the same terminal type "python3 astra.py"
 ```
