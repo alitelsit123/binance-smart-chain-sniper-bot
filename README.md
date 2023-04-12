@@ -35,7 +35,7 @@
 - 💌 Auto approve
 - ⏰ Buy early token gems with custom gas fee, slippage, amount. Bot waits for liquidity (DYOR)
 - 🌏 Sell tokens with your custom increase in price, like 50%, 100%, 200%.
-- 💸 Contains Stop loss (Set SL% to 0 for no Stop loss, and TP% to 100% for no Trailing stop loss), Trailing Stop loss (for maximum profits) and more. Set TP% (Take profit %) to 120% for 20% gain, 100% is the base so 0x, 200% is 1x on your investment
+- 💸 Contains Stop loss (Set SL% to 0 for no Stop loss, Trailing Stop loss at 20% means it will set up a Stop loss after at 20% below the current price once it hits your take profit level, set at 100% to disable. Set TP% (Take profit %) to 120% for 20% gain, 100% is the base so 0x, 200% is 1x on your investment
 - 💸 Open source, with free node services (Literally don't have to pay anything to run this bot)
 - Enjoy and leave a star, if you like it!
 
