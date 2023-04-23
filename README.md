@@ -27,8 +27,7 @@
 </div>
 
 
-## 🚀 Thanks to JEMJEM for trying it out Live! Click on the image below for a video:
-[![BSC sniping GUI](defixinfographic.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
+
 
 
 ## 🚀 Features
@@ -43,16 +42,19 @@
   
 ## 📦 Install
   
-  OPTION 1 for Windows users, download compiled code, extract it and run out of the box astra.exe:
-  
-  https://github.com/DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot/blob/main/astra.rar
+OPTION 1, select your OS and download an executable GUI:
 
-  OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
+[![OS](os.png)](https://defix.app/portfolio/bsc-sniping-bot-opensource/)
+
+OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
   
 
 1. Download python3.7+ for your PC from python org
 2. Open terminal in the bot folder and type ```pip3 install -r requirements.txt``` / this will install all modules required to run the bot
 3. In the same terminal type ```python3 astra.py```
+
+## 🚀 Thanks to JEMJEM for trying it out Live! Click on the image below for a video:
+[![BSC sniping GUI](defixinfographic.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
 
 ## 💎 Successfull 40,000k snipe the other day :)
 
