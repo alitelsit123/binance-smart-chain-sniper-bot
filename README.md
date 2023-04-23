@@ -48,7 +48,6 @@ OPTION 1, select your OS and download an executable GUI:
 
 OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
   
-
 1. Download python3.7+ for your PC from python org
 2. Open terminal in the bot folder and type ```pip3 install -r requirements.txt``` / this will install all modules required to run the bot
 3. In the same terminal type ```python3 astra.py```
