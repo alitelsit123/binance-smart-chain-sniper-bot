@@ -1,7 +1,6 @@
 <div align="center">
   <img src="pancakex.png" width="200"/>
   <h2>THIS NEW VERSION IS FOR BSC ONLY, WORKING ON ADDING ALL MAIN CHAINS!</h2>
-  <h3>This is my website: defix.app so visit me and let me know if you want a custom bot <3</h3>
   <p>Snipe New Tokens on all BSC Dexes within 1 millisecond</p>
   <p align="center">
 
